@@ -5,5 +5,14 @@
     <Compile Update="Form2.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="pantallaPrincipal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pantallaJuego.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pantallaPuntuacion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace JuegoDeLudo
 {
-    abstract class Celda
+    class CeldaNormal : Celda
     {
-        public  bool estado { get; set; }
-        public Pieza[] ocupado_por { get; set; }
-        
 
     }
 }

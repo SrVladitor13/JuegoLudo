@@ -8,25 +8,31 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LUDO
+namespace JuegoDeLudo
 {
     public partial class Form2 : Form
     {
-        Random rnd = new Random();
+        Juego juego = new Juego(2);
         public Form2()
         {
 
             InitializeComponent();
         }
 
-        private void btnTirarDado_Click_1(object sender, EventArgs e)
+        private void pantallaPrincipal1_Load(object sender, EventArgs e)
         {
-            int ValorDado = rnd.Next(1, 7);
-            label1.Text = ValorDado.ToString();
-            if (ValorDado == 6)
-            {
-                //jugador.SacarPieza();
-            }
+            pantallaPrincipal1.Visible = true;
+            pantallaJuego1.Visible = false;
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            pantallaPrincipal1.Visible = false;
+            pantallaJuego1.Visible = true;
+            button1.Visible = false;
+
+
         }
     }
 }

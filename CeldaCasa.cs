@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace JuegoDeLudo
 {
-    abstract class Celda
+    class CeldaCasa : Celda
     {
-        public  bool estado { get; set; }
-        public Pieza[] ocupado_por { get; set; }
-        
-
+        public CeldaCasa()
+        {
+            this.estado = true;
+        }
     }
 }

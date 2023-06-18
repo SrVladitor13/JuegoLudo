@@ -23,7 +23,6 @@ G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\bin\Debug\net7.0-windows\
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\bin\Debug\net7.0-windows\JuegoDeLudo.dll
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\bin\Debug\net7.0-windows\JuegoDeLudo.pdb
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.csproj.AssemblyReference.cache
-G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\LUDO.Form2.resources
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.Properties.Resources.resources
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.csproj.GenerateResource.cache
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.GeneratedMSBuildEditorConfig.editorconfig
@@ -35,3 +34,8 @@ G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.pdb
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.genruntimeconfig.cache
 G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\ref\JuegoDeLudo.dll
+G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.Form2.resources
+G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.Form1.resources
+G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.pantallaJuego.resources
+G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.pantallaPrincipal.resources
+G:\Luckaz\aUniversidad\3er cuatrimestre\Lab3\JuegoLudo\obj\Debug\net7.0-windows\JuegoDeLudo.pantallaPuntuacion.resources
